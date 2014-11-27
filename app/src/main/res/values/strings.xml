@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LectorTXT</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="error_guardar">Archivo no guardado.</string>
+    <string name="error_espacio">No hay espacio suficiente en memoria.</string>
+    <string name="error_editable">El archivo no es editable.</string>
+    <string name="guardado">Archivo guardado.</string>
+
+</resources>
